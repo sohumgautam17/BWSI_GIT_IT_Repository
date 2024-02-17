@@ -1,1 +1,2 @@
 sohumgautam17
+This is a practice txt file for GIT Course
